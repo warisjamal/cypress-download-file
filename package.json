@@ -1,0 +1,19 @@
+{
+  "name": "cypress-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.1.0",
+    "cypress-downloadfile": "^1.2.2"
+  },
+  "devDependencies": {
+    "cy-verify-downloads": "^0.1.8"
+  }
+}
